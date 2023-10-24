@@ -65,11 +65,3 @@ In the code comments, there is an example of how the same functionality can be a
 
 This application demonstrates the power of React Hooks in managing state and reactivity within a React component. It also highlights the simplicity and efficiency that hooks bring to modern React development. Explore the code and experiment with the app to gain a deeper understanding of React Hooks in action.
 
-EOF
-)
-
-# Save the README content to a file
-echo "$readme_content" > README.md
-
-# Notify the user
-echo "README.md file created with the content."
